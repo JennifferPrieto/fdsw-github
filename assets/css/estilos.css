@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: rgb(248, 208, 227);
 }
 
 /* Hero Section */
@@ -51,4 +52,8 @@ body {
 
 h1{
   color: rgb(255, 239, 13);
+}
+
+h2{
+  color: rgb(207, 53, 143);
 }
