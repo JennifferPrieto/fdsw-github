@@ -37,3 +37,18 @@ body {
   }
 
 }
+
+.btn-viajera{
+  background-color: rgb(236, 123, 167);
+  color: rgb(255, 255, 255);
+  border: none;
+  font-weight: 500;
+}
+
+.btn-viajera:hover{
+  background-color: aquamarine;
+}
+
+h1{
+  color: rgb(255, 239, 13);
+}
