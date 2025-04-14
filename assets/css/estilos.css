@@ -84,3 +84,23 @@ h3{
   border-radius: 20px;
 
 }
+
+.btn-botones{
+  
+  background-color:rgb(247, 141, 158) ;
+  color:white ;
+  
+  padding: 6px 12px;
+  border-radius: 12px;
+  font-size: 16px;
+  box-shadow: 0 4px 12px rgba( 0, 0, 0,0.2);
+  transition: all 0.3s ease-in-out;
+  display: inline-block;
+}
+
+.btn-botones:hover{
+  background-color:rgb(105, 127, 187) ;
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba( 0, 0, 0,0.3);
+  color: white;
+}
