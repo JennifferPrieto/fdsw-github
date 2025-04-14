@@ -15,11 +15,14 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  border-radius: 16px ;
+  
 }
+
 
 /* Contacto */
 
@@ -73,5 +76,11 @@ h3{
 
 .text-trabajo{
   color:rgb(105, 127, 187) ;
+
+}
+
+.card-colorida{
+  border: 3px solid rgb(105, 127, 187) ;
+  border-radius: 20px;
 
 }
