@@ -104,3 +104,34 @@ h3{
   box-shadow: 0 6px 16px rgba( 0, 0, 0,0.3);
   color: white;
 }
+
+.form-control{
+  border: 3px solid rgb(105, 127, 187) ;
+  border-radius: 20px;
+}
+
+.btn-botones-contact{
+  
+  background-color:rgb(247, 141, 158) ;
+  color:white ;
+  
+  padding: 15px 26px;
+  border-radius: 16px;
+  font-size: 16px;
+  
+  box-shadow: 0 4px 12px rgba( 0, 0, 0,0.1);
+  transition: all 0.3s ease-in-out;
+  
+  
+}
+
+.btn-botones-contact:hover{
+  background-color:rgb(105, 127, 187) ;
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba( 0, 0, 0,0.3);
+  color: white;
+}
+
+footer{
+  background-color:  rgb(247, 141, 158);
+}
